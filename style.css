@@ -12,9 +12,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(/images/bg.jpg);
-    background-size: cover;
-    background-position: center;
+    background-image: url("https://wallpapers.com/images/hd/almost-black-with-navy-blue-background-aagwaqhmx0ggj2ny.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
 
 .container{
